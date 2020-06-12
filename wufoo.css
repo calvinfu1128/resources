@@ -1,3 +1,4 @@
 /* Backgrounds */
-html{background-image:none;background-color:#000}
-#header{font-size:70px}
+html{background-color:#fff}
+#logo{display:none}
+#container{width:1024px}
