@@ -1,5 +1,6 @@
 /* Backgrounds */
 html{background-color:#fff}
+body{box-sizing:border-box}
 #logo{display:none}
 #container{width:1024px;border:none;box-shadow:none}
 .wufoo .info{border-bottom:none}
